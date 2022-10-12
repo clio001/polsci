@@ -4,6 +4,7 @@ body {
   background: linear-gradient(to bottom right, #91ddd7, white);
   background-repeat: no-repeat;
   background-size: cover;
+  overflow-y: hidden;
 }
 
 .button {
@@ -28,6 +29,13 @@ a:hover {
   color: white;
 
   cursor: pointer;
+}
+
+.title-box {
+  background-color: white;
+
+  padding: 1rem;
+  border-radius: 10px;
 }
 
 .text-content {

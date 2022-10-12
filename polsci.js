@@ -38,8 +38,17 @@ var tiles = L.tileLayer(
   }
 ).addTo(map);
 
+const legend = L.control({ position: "topright" });
+legend.onAdd = function (map) {
+  let div = L.DomUtil.create("div", "title-box");
+  div.innerHTML = "<p>This map displays the </p>";
+  return div;
+};
+legend.addTo(map);
+
 const markerIcon = L.icon({
-  iconUrl: "black-24dp/2x/outline_menu_book_black_24dp.png",
+  iconUrl:
+    "https://cdn.iconscout.com/icon/premium/png-256-thumb/open-book-1631477-1381009.png",
   iconSize: [25, 25],
 });
 
@@ -89,6 +98,7 @@ doc.map((item, i) => {
   );
   biographies.push(pin);
 });
+
 const bioLayer = L.layerGroup(biographies);
 
 const overlayMaps = {
