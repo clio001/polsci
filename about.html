@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.2/dist/leaflet.css"
+      integrity="sha256-sA+zWATbFveLLNqWO2gtiw3HL/lh1giY/Inf1BJ0z14="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js"
+      integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg="
+      crossorigin=""
+    ></script>
+    <title>1878 | Mapping Polar Science</title>
+  </head>
+  <body
+    style="
+      background-image: linear-gradient(
+          to bottom right,
+          rgba(255, 255, 255, 1) 18%,
+          rgba(101, 215, 220, 0.4) 95%
+        ),
+        url('http://www.johnwoitkowitz.de/IMG_2464-2_small.jpg');
+    "
+  >
+    <nav class="navbar navbar-expand-lg bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html"
+          >1878 | Mapping Polar Science</a
+        >
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link active" href="about.html">About</a>
+            <a class="nav-link" href="polarscience.html">Map</a>
+            <a class="nav-link" href="data.html">Data</a>
+            <a class="nav-link" href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div style="height: 100vh">
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          margin-left: 5%;
+        "
+      >
+        <div class="display-1" style="margin-top: 4rem">About</div>
+        <br />
+        <p class="lead" style="max-width: 550px">
+          Long before the urgency of climate change began to draw attention to
+          the Arctic and Antarctic, scientists from Europe and North America
+          collected data about the polar regions.
+        </p>
+        <p>
+          Today, the Arctic is home to 4 million people and is heating four
+          times as fast as the rest of the planet.
+        </p>
+      </div>
+    </div>
+
+    <script src="polsci.js" type="module"></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

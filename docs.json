@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "itemNum": 1276,
+    "creator": {
+      "firstName": "Arngrimus",
+      "lastName": "Jonas"
+    },
+    "title": "Vita Gudebrandi Thoriacii. Lugd. Bat.",
+    "language": "Latin",
+    "createdAt": "1630",
+    "publisher": "",
+    "place": {
+      "name": "",
+      "domain": "",
+      "lat": "",
+      "long": ""
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 2,
+    "itemNum": 1277,
+    "creator": {
+      "firstName": "Sir John",
+      "lastName": "Speiman"
+    },
+    "title": "Aelfredi Anglorum regis invictissimi Vita, tribus libris comprehensa, latine reddita et annotatt illustr. Oxonii",
+    "language": "Latin",
+    "createdAt": "1678",
+    "publisher": "",
+    "place": {
+      "name": "",
+      "domain": "",
+      "lat": "",
+      "long": ""
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 3,
+    "itemNum": 1278,
+    "creator": {
+      "firstName": "V. D.",
+      "lastName": "B."
+    },
+    "title": "Leben und Thaten des Seehelden und Erfinder der Länder dieser Zeiten, anfangend mit Christ. Colombus, dem Erfinder der neuen Welt und sich endend mit dem Admiral Ruyter, worinnen viele seltzame Fälle, tapffere Verrichtungen, harte Seetreffen vorgestellt werden.",
+    "language": "German",
+    "createdAt": "1681",
+    "publisher": "Endter",
+    "place": {
+      "name": "",
+      "domain": "",
+      "lat": "",
+      "long": ""
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 4,
+    "itemNum": 1279,
+    "creator": {
+      "firstName": "W.",
+      "lastName": "Fitz Gerald"
+    },
+    "title": "An Ode to the Memory of the late Captain James Cook",
+    "language": "English",
+    "createdAt": "1780",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 5,
+    "itemNum": 1280,
+    "creator": {
+      "firstName": "James",
+      "lastName": "Cook"
+    },
+    "title": "Leben, aus richtigen Quellen",
+    "language": "German",
+    "createdAt": "1781",
+    "publisher": "Akad. Buchh.",
+    "place": {
+      "name": "Frankfurt",
+      "domain": "Germany",
+      "lat": 50.110924,
+      "long": 8.682127
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 6,
+    "itemNum": 1281,
+    "creator": {
+      "firstName": "Angelo Michael",
+      "lastName": "Gianetti"
+    },
+    "title": "Elogio del Capitano Gianno Cook.",
+    "language": "Italian",
+    "createdAt": "1785",
+    "publisher": "",
+    "place": {
+      "name": "Firenze",
+      "domain": "Italy",
+      "lat": 43.769562,
+      "long": 11.255814
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 7,
+    "itemNum": 1282,
+    "creator": {
+      "firstName": "David",
+      "lastName": "Seniwell"
+    },
+    "title": "A Narrative of the Death of Capt. Cook; to which are added, some Particulars concerning his Life and Character; with Observations respecting Introduction of the Veneral Disease into the Sandwich Island.",
+    "language": "English",
+    "createdAt": "1786",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 8,
+    "itemNum": 1283,
+    "creator": {
+      "firstName": "Andrew",
+      "lastName": "Kippis"
+    },
+    "title": "The life and voyages of Capt. J. J. Cook.",
+    "language": "English",
+    "createdAt": "1788",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 55
+  },
+  {
+    "id": 9,
+    "itemNum": 1284,
+    "creator": {
+      "firstName": "A.",
+      "lastName": "Kippis"
+    },
+    "title": "Vie du capitaine Jam. Cook pour servir de suite à ses trois voyages.",
+    "language": "French",
+    "createdAt": "1789",
+    "publisher": "",
+    "place": {
+      "name": "Paris",
+      "domain": "France",
+      "lat": 48.864716,
+      "long": 2.349014
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 10,
+    "itemNum": 1285,
+    "creator": {
+      "firstName": "D.",
+      "lastName": "Michaelis"
+    },
+    "title": "Leben des amerikanischen Reisenden John Ledyard, des Begleiters von Cook, aus dem Engl. 'Jared Sparks's Memoirs of the life and travels of John Ledyard.",
+    "language": "German",
+    "createdAt": "1828",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 11,
+    "itemNum": 1286,
+    "creator": {
+      "firstName": "D. B.",
+      "lastName": "Warden"
+    },
+    "title": "A Memoir of Sebastian Cabot, with a review of the history of maritime discovery illustrated by Documents from the rolls, now first published by D. B. Warden.",
+    "language": "English",
+    "createdAt": "1831",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 12,
+    "itemNum": 1287,
+    "creator": {
+      "firstName": "Ch.",
+      "lastName": "Hayward"
+    },
+    "title": "Life of Sebastion Cabot. Sparks Jared American Biography.",
+    "language": "English",
+    "createdAt": "1834",
+    "publisher": "",
+    "place": {
+      "name": "Boston",
+      "domain": "United States",
+      "lat": 42.360081,
+      "long": -71.058884
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "12°",
+    "page": 55
+  },
+  {
+    "id": 13,
+    "itemNum": 1288,
+    "creator": {
+      "firstName": "Henri",
+      "lastName": "Lebrun"
+    },
+    "title": "Voyages et aventures du capitaine Cook.",
+    "language": "French",
+    "createdAt": "1837",
+    "publisher": "La Vigne",
+    "place": {
+      "name": "Paris",
+      "domain": "France",
+      "lat": 48.864716,
+      "long": 2.349014
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "12°",
+    "page": 55
+  },
+  {
+    "id": 14,
+    "itemNum": 1289,
+    "creator": {
+      "firstName": "N. M. H.",
+      "lastName": "Peterson"
+    },
+    "title": "Hans Egedes levnet.",
+    "language": "Danish",
+    "createdAt": "1839",
+    "publisher": "",
+    "place": {
+      "name": "Copenhagen",
+      "domain": "Denmark",
+      "lat": 55.676098,
+      "long": 12.568337
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "12°",
+    "page": 55
+  },
+  {
+    "id": 15,
+    "itemNum": 1290,
+    "creator": {
+      "firstName": "A.",
+      "lastName": "Simpson"
+    },
+    "title": "The life and travels of T. Simpson, the arctic discoverer.",
+    "language": "English",
+    "createdAt": "1845",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "",
+    "page": 55
+  },
+  {
+    "id": 16,
+    "itemNum": 1291,
+    "creator": {
+      "firstName": "",
+      "lastName": ""
+    },
+    "title": "Das Leben des Capitän Cook. Biographien für die Jugend.",
+    "language": "German",
+    "createdAt": "1854",
+    "publisher": "",
+    "place": {
+      "name": "Tübingen",
+      "domain": "Germany",
+      "lat": 48.5229,
+      "long": 9.0521
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 17,
+    "itemNum": 1292,
+    "creator": {
+      "firstName": "Nijenhuis J. V.",
+      "lastName": "Badel"
+    },
+    "title": "Bijzonderheden von M. N. Cornelissen Witsen.",
+    "language": "Dutch",
+    "createdAt": "1855",
+    "publisher": "",
+    "place": {
+      "name": "Arnhem",
+      "domain": "Netherlands",
+      "lat": 51.97973,
+      "long": 5.9124
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "",
+    "page": 55
+  },
+  {
+    "id": 18,
+    "itemNum": 1293,
+    "creator": {
+      "firstName": "C. W.",
+      "lastName": "Shields"
+    },
+    "title": "Funeral Eulogy of the Obsequies of Dr. E. K. Kane.",
+    "language": "English",
+    "createdAt": "1857",
+    "publisher": "",
+    "place": {
+      "name": "Philadelphia",
+      "domain": "United States",
+      "lat": 39.952583,
+      "long": -75.165222
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "",
+    "page": 55
+  },
+  {
+    "id": 19,
+    "itemNum": 1294,
+    "creator": {
+      "firstName": "",
+      "lastName": "Joint Committee"
+    },
+    "title": "Report of the Joint Committee appointed to revceive the remains and conduit the obsequies of the late Elisha Kent Kane.",
+    "language": "English",
+    "createdAt": "1857",
+    "publisher": "",
+    "place": {
+      "name": "Philadelphia",
+      "domain": "United States",
+      "lat": 39.952583,
+      "long": -75.165222
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "",
+    "page": 55
+  },
+  {
+    "id": 20,
+    "itemNum": 1295,
+    "creator": {
+      "firstName": "W.",
+      "lastName": "Elder"
+    },
+    "title": "Biography of Elisha Kent Kane. With a portrait and engravings.",
+    "language": "English",
+    "createdAt": "1858",
+    "publisher": "Lippingcott and Co.",
+    "place": {
+      "name": "Philadelphia",
+      "domain": "United States",
+      "lat": 39.952583,
+      "long": -75.165222
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 21,
+    "itemNum": 1296,
+    "creator": {
+      "firstName": "Edward",
+      "lastName": "Parry"
+    },
+    "title": "Memoirs of Rear Admiral Sir W. E. Parry. By his son E. Parry.",
+    "language": "English",
+    "createdAt": "1858",
+    "publisher": "",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 22,
+    "itemNum": 1297,
+    "creator": {
+      "firstName": "Sm. M.",
+      "lastName": "Smucker"
+    },
+    "title": "The Life of Elisha Kent Kane and other American Explorers.",
+    "language": "English",
+    "createdAt": "1858",
+    "publisher": "Bradley",
+    "place": {
+      "name": "Philadelphia",
+      "domain": "United States",
+      "lat": 39.952583,
+      "long": -75.165222
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 55
+  },
+  {
+    "id": 23,
+    "itemNum": 1298,
+    "creator": {
+      "firstName": "J. A.",
+      "lastName": "Turner"
+    },
+    "title": "The Discovery of Sir John Franklin and other Poems.",
+    "language": "English",
+    "createdAt": "1858",
+    "publisher": "",
+    "place": {
+      "name": "New York",
+      "domain": "United States",
+      "lat": 40.712776,
+      "long": -74.005974
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "16°",
+    "page": 55
+  },
+  {
+    "id": 24,
+    "itemNum": 1299,
+    "creator": {
+      "firstName": "le Rev. Edward",
+      "lastName": "Parry"
+    },
+    "title": "Vie du contre-amiral Sir Edward Parry. Traduit de l'anglais.",
+    "language": "French",
+    "createdAt": "1859",
+    "publisher": "Grassart",
+    "place": {
+      "name": "Paris",
+      "domain": "France",
+      "lat": 48.864716,
+      "long": 2.349014
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "12°",
+    "page": 55
+  },
+  {
+    "id": 25,
+    "itemNum": 1300,
+    "creator": {
+      "firstName": "G. M.",
+      "lastName": "Asher"
+    },
+    "title": "Henry Hudson the Navigator. The original Documents in which his Career is recorded, collected, partly translated, and annotated with an introduction.",
+    "language": "English",
+    "createdAt": "1860",
+    "publisher": "Hakluyt Society",
+    "place": {
+      "name": "London",
+      "domain": "United Kingdom",
+      "lat": 51.505,
+      "long": -0.09
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "",
+    "page": 55
+  },
+  {
+    "id": 26,
+    "itemNum": 1301,
+    "creator": {
+      "firstName": "J. G.",
+      "lastName": "Kutzner"
+    },
+    "title": "Ein Weltfahrer oder Erlebnisse in vier Erdtheilen. Jugendschicksale, Reisen und Entdeckungen von E. K. Kane, dem Nordpolfahrer.",
+    "language": "German",
+    "createdAt": "1860",
+    "publisher": "Spamer",
+    "place": {
+      "name": "Leipzig",
+      "domain": "Germany",
+      "lat": 51.339695,
+      "long": 12.373075
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "8°",
+    "page": 56
+  },
+  {
+    "id": 27,
+    "itemNum": 1302,
+    "creator": {
+      "firstName": "de la",
+      "lastName": "Roquette"
+    },
+    "title": "Notice biographique sur Sir John Franklin. Avec deux cartes.",
+    "language": "French",
+    "createdAt": "1860",
+    "publisher": "",
+    "place": {
+      "name": "Paris",
+      "domain": "France",
+      "lat": 48.856613,
+      "long": 2.352222
+    },
+    "category": {
+      "name": "Biographie der Polarforscher",
+      "label": "Biography"
+    },
+    "format": "4°",
+    "page": 56
+  }
+]
