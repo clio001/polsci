@@ -53,6 +53,8 @@ vienna.bindPopup(
   "<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Josef_Chavanne_Portrait.jpg' width='300px' />"
 );
 
+let biographies = [];
+
 doc.map((item, i) => {
   let pin = L.marker([item.place.lat, item.place.long], {
     icon: markerIcon,
@@ -85,4 +87,12 @@ doc.map((item, i) => {
       "</button></a></p></center > ",
     { className: "box" }
   );
+  biographies.push(pin);
 });
+const bioLayer = L.layerGroup(biographies);
+
+const overlayMaps = {
+  Vienna: vienna,
+  Biographies: bioLayer,
+};
+L.control.layers(null, overlayMaps).addTo(map);
